@@ -1,0 +1,11 @@
+{
+  "name": "Fundamentos-Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ricardo-1976/Fundamentos-Node.js.git",
+  "author": "Ricardo João António <ricardojoaoantonio2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
